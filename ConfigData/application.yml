@@ -33,3 +33,9 @@ words: boat,book,vote,seat,backpack,partition,groundhog
   
 ---
 mensaje-everis: Se obtuvo el listado de personas exitosamente
+
+---
+mensaje: Dni no encontrado
+
+---
+mensaje-sistema: Error de compilacion
