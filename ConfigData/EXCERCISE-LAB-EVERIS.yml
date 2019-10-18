@@ -1,5 +1,5 @@
 list:
-  persons:
+  persona:
      -
        dni: 11223344
        nombre: Yuri
