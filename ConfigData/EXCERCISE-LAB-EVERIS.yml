@@ -1,0 +1,23 @@
+list:
+  persons:
+     -
+       dni: 11223344
+       nombre: Yuri
+       apellido: Alcantara
+     -
+       dni: 14523698
+       nombre: Miguel
+       apellido: Abanto
+     -
+       dni: 12345678
+       nombre: Merthy
+       apellido: Cotrina
+     -
+       dni: 12547254
+       nombre: Pierina
+       apellido: Plasencia
+     -
+       dni: 45127895
+       nombre: Mia
+       apellido: Alcantara
+  
